@@ -36,7 +36,7 @@ I'm **Illustar0**
 🎮 Battlefield™ V                   🕘 152 hrs 3 mins
 🎮 Fallout 4                        🕘 149 hrs 21 mins
 🎮 Battlefield 1 ™                  🕘 142 hrs 10 mins
-🎮 Stellaris                        🕘 129 hrs 22 mins
+🎮 Stellaris                        🕘 130 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
