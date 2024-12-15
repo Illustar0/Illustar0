@@ -20,7 +20,7 @@ I'm **Illustar0**
 [![](https://img.shields.io/badge/-Pycharm-228B22?logo=pycharm&style=flat-square&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-VisualStudio-blue?logo=visualstudio&style=flat-square&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
-[![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://steamcommunity.com/id/XCwosjw/)
+[![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://steamcommunity.com/id/Illustar0/)
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
 [![](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
 [![](https://img.shields.io/badge/-Origin-FF4500?logo=origin&style=flat-square&logoColor=ffffff)](https://www.origin.com/)
