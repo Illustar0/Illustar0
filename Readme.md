@@ -32,7 +32,7 @@ I'm **Illustar0**
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Battlefield™ 2042                🕘 196 hrs 50 mins
+🎮 Battlefield™ 2042                🕘 197 hrs 50 mins
 🎮 Battlefield™ V                   🕘 152 hrs 58 mins
 🎮 Fallout 4                        🕘 149 hrs 21 mins
 🎮 Battlefield 1 ™                  🕘 142 hrs 10 mins
